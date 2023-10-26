@@ -1,0 +1,33 @@
+_repo: Chants-for-the-Boer_71889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Joaquin
+    aliases:
+    - Miller, Cincinnatus Heine
+    - Miller, Cincinnatus Hiner
+    birthdate: 1837
+    deathdate: 1913
+    gutenberg_agent_id: '8840'
+    url: http://www.gutenberg.org/2009/agents/8840
+    wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
+description: ''
+gutenberg_issued: '2023-10-16'
+identifiers:
+  gutenberg: '71889'
+language: en
+pgterms:marc904: https://archive.org/details/chantsfortheboer00millrich/page/n7/mode/2up
+pgterms:marc905: 20230321023430miller
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bThe Whitaker & Ray Company, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chants for the Boer
+url: http://www.gutenberg.org/ebooks/71889
