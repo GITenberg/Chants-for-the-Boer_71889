@@ -1,5 +1,8 @@
 _repo: Chants-for-the-Boer_71889
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71889-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Joaquin
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8840
     wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71889#Chants-for-the-Boer
 gutenberg_issued: '2023-10-16'
 identifiers:
   gutenberg: '71889'
